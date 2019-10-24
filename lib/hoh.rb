@@ -31,7 +31,7 @@
 # }
 
 def naming_system
-portion_1 = {
+PORTION_1 = {
    :label => "Kingdom",
    :sub_category => {
      :label => "Phylum",
@@ -41,18 +41,18 @@ portion_1 = {
    }
  }
  
-portion_2 = {
+PORTION_2 = {
    :label => "Order"
  }
  
-portion_3 = {
+PORTION_3 = {
    :label => "Family",
    :sub_category => {
      :label => "Genus",
    }
  }
  
-portion_4 = {
+PORTION_4 = {
    :label => "Species",
    :sub_category => "nil"
  }
