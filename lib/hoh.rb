@@ -39,18 +39,18 @@ portion_1 = {
        :label => "Class"
      }
    }
- }
+ },
  
 portion_2 = {
    :label => "Order"
- }
+ },
  
 portion_3 = {
    :label => "Family",
    :sub_category => {
      :label => "Genus",
    }
- }
+ },
  
 portion_4 = {
    :label => "Species",
