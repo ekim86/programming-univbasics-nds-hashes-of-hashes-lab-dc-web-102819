@@ -54,7 +54,7 @@ portion_3 = {
  
 portion_4 = {
    :label => "Species",
-   :sub_category => nil
+   :sub_category => "nil"
  }
 end
   
